@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm an undergead in Computer Science, working as a freelance software developer.
+
+- 🔭 I’m currently working on a website for a startup in India.
+- 🌱 I’m currently learning Clean Code and Systems design.
+- 👯 I’m looking to collaborate on software development projects.
+- 📫 I'm available to hire for Full Stack software development projects.
+- 📫 How to reach me: vikassandhu999@gmail.com 
+
 <!--
 **vikassandhu999/vikassandhu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
