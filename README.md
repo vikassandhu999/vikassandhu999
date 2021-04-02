@@ -9,6 +9,12 @@ I'm an undergead in Computer Science, working as a freelance software developer.
 - 📫 I'm available to hire for Full Stack software development projects.
 - 📫 How to reach me: vikassandhu999@gmail.com 
 
+<br>
+<br>
+
+<img align="left" alt="Adam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikassandhu999&show_icons=true&hide_border=true" />
+
+
 <!--
 **vikassandhu999/vikassandhu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
