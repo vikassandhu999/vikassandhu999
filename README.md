@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an undergead in Computer Science, working as a freelance software developer.
+I'm an undergrad in Computer Science, working as a freelance software developer.
 
 - ⚡ I'm a specialist in MERN stack.
 - ⚡ Facts: I prefer Typescript over Javascript.
