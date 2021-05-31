@@ -8,5 +8,3 @@ I'm an undergraduate in Computer Science, working as a freelance software develo
 
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikassandhu999&show_icons=true&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
-<img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikassandhu999&show_icons=true&hide_border=true" />
-
