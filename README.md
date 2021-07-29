@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an undergraduate in Computer Science, working as a freelance software developer.
+I'm a software developer.
 
 - ⚡ I solve business problems with the help of my Software development skills.
 - 📫 I'm available to hire for Full Stack software development projects.
