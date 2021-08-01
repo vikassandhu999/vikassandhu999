@@ -1,10 +1,22 @@
-### Hi there 👋
 
-I'm a software developer.
 
-- ⚡ I solve business problems with the help of my Software development skills.
-- 📫 I'm available to hire for Full Stack software development projects.
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=vikassandhu999.vikassandhu999) -->
+
+
+### Software Craftsman
+- I'm available to hire for Software Engineering roles.
+- Learning: TDD, BDD & Software Design.
 - 📫 How to reach me: vikassandhu999@gmail.com 
+
+<a href="https://twitter.com/vikassandhu999">
+  <img align="left" alt="Vikas Sandhu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vikas-sandhu-240405174/">
+  <img align="left" alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br/>
+<br/>
 
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikassandhu999&show_icons=true&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
