@@ -2,11 +2,30 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=vikassandhu999.vikassandhu999) -->
 
+I'm a final year CS student and a Software Developer.
 
-### Software Craftsman
-- I'm available to hire for Software Engineering roles.
-- Learning: TDD, BDD & Software Design.
-- 📫 How to reach me: vikassandhu999@gmail.com 
+    Frameworks:
+    React, Next, Node, Express, Nest, Material-UI.
+
+    Languages:
+    HTML, CSS, JavaScript, TypeScript, Java, C, C++, GoLang.
+
+    Libraries:
+    Redux, React-Query, GSAP, FabricJS, Socket.IO.
+
+    Architecture:
+    The Clean Architecture by Uncle Bob.
+
+    Database Softwares:
+    MongoDB, Redis.
+
+    Other Technical Skills:
+    Docker, Nginx, Linux, Git & Github.
+
+    Coursework:
+    Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Software Engineering Concepts.
+
+    Learning: TDD & BDD, Systems Design.
 
 <a href="https://twitter.com/vikassandhu999">
   <img align="left" alt="Vikas Sandhu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
