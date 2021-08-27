@@ -5,7 +5,7 @@
 I'm a final year CS student and a Software Developer.
 
     Frameworks:
-    React, Next, Node, Express, Nest, Material-UI.
+    React, Next, Node, Express, Nest, Jest, Material-UI.
 
     Languages:
     HTML, CSS, JavaScript, TypeScript, Java, C, C++, GoLang.
