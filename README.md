@@ -25,7 +25,7 @@ I'm a final year CS student and a Software Developer.
     Coursework:
     Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Software Engineering Concepts.
 
-    Learning: TDD & BDD, Systems Design.
+    Learning: TDD & Systems Design.
 
 <a href="https://twitter.com/vikassandhu999">
   <img align="left" alt="Vikas Sandhu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
