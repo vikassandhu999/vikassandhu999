@@ -14,5 +14,3 @@ I'm a Software Developer.
 <br/>
 <br/>
 
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikassandhu999&show_icons=true&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
-
